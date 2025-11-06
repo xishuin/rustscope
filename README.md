@@ -108,7 +108,7 @@ cargo build --release
 **终端**：支持 ANSI 转义序列和 UTF-8 编码的现代终端。
 
 ## 项目结构
-
+```
 rustscope/
 ├── src/
 │   ├── main.rs          # 程序入口
@@ -123,4 +123,4 @@ rustscope/
 ├── Cargo.toml           # 项目配置和依赖
 ├── LICENSE              # 许可证文件
 └── README.md            # 项目说明文档
-
+```
